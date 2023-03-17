@@ -1,0 +1,8 @@
+body {
+  background-color: #c8d5e5 !important;
+  font-family: "Architects Daughter", cursive !important;
+}
+
+#map {
+  height: 1000px;
+}
